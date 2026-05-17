@@ -6,18 +6,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Welcome to the Crashpad; my home for ramblings, ideas, thoughts, and tidbits from my life. My primary reason for opening this blog was the give my NetHack experiences a home for the long-term (and to give a reprieve to all of my friends in Discord).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Don['](/assets/img/ANewPepeChristmas.gif)t expect anything - but don't *not* expect anything - is what I'm saying.
