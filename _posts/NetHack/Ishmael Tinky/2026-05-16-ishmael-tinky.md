@@ -11,7 +11,7 @@ categories:
 - Ishmael Tinky
 ---
 
-## Ishmael Tinky...
+## Ishmael Tinky
 ...a gnomish wizard adorned with a cornuthaum, spectacles, a hawaiian shirt, silver dragon scale mail, a cloak of protection, gauntlets of power, and boots of speed. He wielded an artifact athame called Magicbane, and blasted villains with his signature spell Magic Missile. He was crowned the Envoy of Balance and was blessed with the Finger of Death spell by his god, Thoth.
 
 He entered Moloch's Sanctum, defeated the High Priest, retreived the Amule of Yendor, and exited to the elemental planes. Upon reaching the Astal Plane, he valiantly searched for the Altar to Thoth and offered the Amulet.[.](/blog/assets/img/EasterEggs/lilguy.png). ascending to demigodhood.

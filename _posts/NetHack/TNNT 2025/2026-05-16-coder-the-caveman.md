@@ -11,8 +11,8 @@ categories:
 - Coder the Caveman
 ---
 
-## Coder the Caveman...
-..[.](/blog/assets/img/EasterEggs/Profen.gif)my character for The November NetHack Tournament 2025! I don't have a regal schpiel for this one, as I joined the tourney later than a probably should have and wanted to put my team on the charts. I *was* the only one to ascend of the three of us, though, so I am quite happy with this run!
+## Coder the Caveman
+..[.](/blog/assets/img/EasterEggs/Profen.gif)my character for The November NetHack Tournament 2025! I don't have a regal schpiel for this one, as I joined the tourney later than I probably should have and wanted to put my team on the charts. I *was* the only one to ascend of the three of us, though, so I am quite happy with this run!
 
 Also, this was the run where I employed the Expensive Camera versus the riders for the first time; watching Death flail wildly was quite amusing.
 
