@@ -12,6 +12,23 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width,initial-scale=1"/>
         <title><xsl:value-of select="/atom:feed/atom:title"/></title>
+        
+        <xsl:choose>
+          <xsl:when test="/atom:feed/atom:icon">
+            <link rel="icon" type="image/png">
+              <xsl:attribute name="href">
+                <xsl:value-of select="/atom:feed/atom:icon"/>
+              </xsl:attribute>
+            </link>
+          </xsl:when>
+          <xsl:when test="/atom:feed/atom:logo">
+            <link rel="icon" type="image/png">
+              <xsl:attribute name="href">
+                <xsl:value-of select="/atom:feed/atom:logo"/>
+              </xsl:attribute>
+            </link>
+          </xsl:when>
+        </xsl:choose>
 
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap" rel="stylesheet"/>
 
@@ -145,7 +162,7 @@
           a:hover{text-decoration:underline}
           .footer{color:var(--muted);font-size:0.85rem;margin-top:28px;text-align:center}
           .logo-row{display:flex;align-items:center;gap:12px;margin-bottom:8px}
-          .logo{width:44px;height:44px;border-radius:8px;overflow:hidden;flex:0 0 44px;border:1px solid var(--avatar-border-color)}
+          .logo{width:44px;height:44px;border-radius:8px;overflow:hidden;flex:0 0 44px;border:0px solid var(--avatar-border-color)}
           .logo img{width:100%;height:100%;object-fit:cover;display:block}
           @media (max-width:640px){ .wrap{margin:20px 12px} .title{font-size:1.15rem} }
 
