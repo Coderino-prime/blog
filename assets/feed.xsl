@@ -137,7 +137,7 @@
           .title{font-size:1.4rem;font-weight:700;color:var(--site-title-color)}
           .subtitle{color:var(--site-subtitle-color);font-size:0.95rem}
           .list{display:flex;flex-direction:column;gap:14px}
-          article{background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);border-radius:var(--radius);padding:18px;box-shadow:var(--card-shadow);border:1px solid rgba(255,255,255,0.02)}
+          article{background:#1e1e1e;border-radius:var(--radius);padding:18px;box-shadow:var(--card-shadow);border:1px solid rgba(255,255,255,0.02)}
           article h2{margin:0 0 8px 0;font-size:1.05rem;color:var(--heading-color)}
           .meta{color:var(--muted);font-size:0.9rem;margin-bottom:8px}
           article p{margin:0;color:var(--text);opacity:0.95}
