@@ -30,7 +30,6 @@ github:
 theme: jekyll-theme-chirpy
 
 plugins:
-  - jekyll-feed
   - jekyll-paginate
 
 toc: true
