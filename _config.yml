@@ -31,6 +31,7 @@ theme: jekyll-theme-chirpy
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 toc: true
 
