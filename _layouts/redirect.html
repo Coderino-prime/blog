@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  {%- assign target = page.redirect_to | default: page.redirect_url | default: site.url -%}
+  <meta name="theme-color" content="{{ site.theme_background | default: '#000000' }}">
+  <style>
+    :root{color-scheme: dark;}
+    html,body{height:100%;margin:0;padding:0;background:{{ site.theme_background | default: '#000' }} !important;}
+    *{background-color:transparent;border:0}
+    body > *{display:none!important}
+  </style>
+  <meta http-equiv="refresh" content="0;url={{ target | escape }}" />
+  <script>
+    (function(u){
+      if(!u) return;
+      try { location.replace(u); } catch(e) { location.href = u; }
+    })("{{ target | escape }}");
+  </script>
+  <title>Redirecting…</title>
+</head>
+<body></body>
+</html>
