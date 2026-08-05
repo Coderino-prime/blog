@@ -28,4 +28,4 @@ No [removing the French Language pack](/assets/img/EasterEggs/no-french.png) for
 
 With a little bit of extra work setting up ports and a firewall, and my friends had a dedicated server that they could connect to whenever.
 I was unaware when I started, but this was just a first step in a series of homelab projects.
-Surely there was much more I could do with this dedicate machine...?
+Surely there was much more I could do with this dedicated machine...?
